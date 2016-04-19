@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Family.householdIncome() -&gt; Int:main.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Family.init(spouse1 : Person, spouse2 : Person) -&gt; Family:main.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Family.haveChild(Person) -&gt; Bool:main.swift">
+      </ContextState>
+      <ContextState
+         contextName = "main:main.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
